@@ -1,7 +1,6 @@
 ---
 title: The Issei
 date: 1877-05-01 00:00:00 -0700
-enddate: 
 ---
 
 ![](https://japanesecanadianhistory.net/wp-content/uploads/2017/10/t1877-300x120.jpg)
