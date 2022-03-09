@@ -1,7 +1,7 @@
 ---
 title: Before World War II
-date: 1840-11-06 00:00:00 -0700
-enddate: 1893-11-06 00:00:00 -0700
+date: 1938-01-01 00:00:00 -0700
+enddate: 1941-08-01 00:00:00 -0700
 ---
 
 ![](https://japanesecanadianhistory.net/wp-content/uploads/2017/10/t194106-300x120.jpg)
