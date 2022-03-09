@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin
+title: Early Voting
 date: 1895-01-01 00:00:00 -0700
 enddate: 1900-01-09 00:00:00 -0700
 ---
