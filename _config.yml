@@ -1,6 +1,6 @@
 ---
-title: Composers
-timezone: Europe/Berlin
+title: Internment of Japanese Canadians
+timezone: Canada/Calgary
 collections:
   posts:
     title: Posts
@@ -17,11 +17,11 @@ defaults:
     type: steps
   values:
     title: 
-    date: 2016-09-01 00:00:00 -0700
+    date: 2020-03-03 00:00:00 -0700
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: A breif comprehensive timeline of the history of Japanese Canadians
+baseurl: "/japanese-canadian-timeline"
+url: https:/yahyaasmara.github.io
 color: "#f2f2f2"
