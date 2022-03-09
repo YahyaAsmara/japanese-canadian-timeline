@@ -1,5 +1,5 @@
 ---
-title: Redress
+title: Japanese Canadian Redress
 date: 1984-01-04 00:00:00 -0700
 enddate: 1988-09-22 00:00:00 -0700
 ---
