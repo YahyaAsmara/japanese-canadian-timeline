@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff
+title: World War I & Beyond
 date: 1914-07-28 00:00:00 -0700
 enddate: 1931-01-01 00:00:00 -0700
 ---
